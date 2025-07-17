@@ -7,4 +7,8 @@
         "package": "bregr",
         "url": "https://github.com/WangLabCSU/bregr"
     }
+    {
+        "package": "scmire",
+        "url": "https://github.com/WangLabCSU/scmire"
+    }
 ]
