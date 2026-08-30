@@ -18,5 +18,9 @@
     {
         "package": "geokit",
         "url": "https://github.com/WangLabCSU/geokit"
+    },
+    {
+        "package": "rpkgkit",
+        "url": "https://github.com/WangLabCSU/rpkgkit"
     }
 ]
