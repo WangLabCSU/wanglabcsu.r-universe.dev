@@ -22,5 +22,9 @@
     {
         "package": "rpkgkit",
         "url": "https://github.com/WangLabCSU/rpkgkit"
+    },
+    {
+        "package": "PERCEPTIONx",
+        "url": "https://github.com/WangLabCSU/PERCEPTIONx"
     }
 ]
